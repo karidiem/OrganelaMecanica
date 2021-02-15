@@ -1,0 +1,24 @@
+{
+  "strength": {
+    "message": "I can lift 169 Pounds with my prosthetic arm",
+    "key_words": ["prosthetic"],
+    "personal_key_words": ["you strong"]
+  },
+  "prosthetic": {
+    "message":"I can lift 169Pounds with my prosthetic arm",
+    "key_words": [""],
+    "personal_key_words": ["you strong"]
+  },
+  "you strong": {
+	
+    "message": "You can feel it if you want",
+    "key_words": [""],
+    "personal_key_words": ["yes i want to feel it"],
+    "event": 150
+  },
+  "Liberty Statue": {
+    "message": "That big lady",
+    "key_words": [""],
+    "personal_key_words": [""]
+  }
+}
